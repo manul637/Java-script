@@ -60,37 +60,37 @@
 //--------------------------------------------------------------------------------------------------------------------
 
 
-let a = 5;
-let b = 24;
-let c = 12;
+// let a = 5;
+// let b = 24;
+// let c = 12;
 
 
-if (a>b) {
-    if(a>c){
-        console.log("a is greater");
-    }else {
-        console.log("c is greater");
-    }
-} 
-else
+// if (a>b) {
+//     if(a>c){
+//         console.log("a is greater");
+//     }else {
+//         console.log("c is greater");
+//     }
+// } 
+// else
 
-if (b>c) {
-    console.log("b is greater");
+// if (b>c) {
+//     console.log("b is greater");
 
-} else {
-    console.log("c is greater");
-}
+// } else {
+//     console.log("c is greater");
+// }
 
 
 //------------------------------------------------------------------------------------------------------------------
 
 
 
-let num1 = 32 ;
-let num2 = 4672;
+// let num1 = 32 ;
+// let num2 = 4672;
 
-if( (num1 % 10) == (num2 %10))  {
-    console.log(" number ahve same last digit which is " , num1%10);
-} else {
-    console.log("number dont have the same last digit")
-}
+// if( (num1 % 10) == (num2 %10))  {
+//     console.log(" number ahve same last digit which is " , num1%10);
+// } else {
+//     console.log("number dont have the same last digit")
+// }
