@@ -94,3 +94,4 @@
 // } else {
 //     console.log("number dont have the same last digit")
 // }
+
