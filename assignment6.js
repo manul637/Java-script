@@ -82,21 +82,21 @@
 //----------------------------------------------------------------------------------------------------------
 
 
-let country = [ "australia ", "germany", "india","russia"];
+// let country = [ "australia ", "germany", "india","russia"];
 
 
-function longestNameCountry (country) {
+// function longestNameCountry (country) {
 
-    let ansidx = 0;
-    for (let i = 0 ; i < country.length , i++) {
+//     let ansidx = 0;
+//     for (let i = 0 ; i < country.length , i++) {
 
-        let ansLen = country[0].length ;
-        let curLen = country[i].length;
-        if( curLen >ansLen){
-            ansidx = i ;
-        }
-    }
-    return country[ansidx];
-}
+//         let ansLen = country[0].length ;
+//         let curLen = country[i].length;
+//         if( curLen >ansLen){
+//             ansidx = i ;
+//         }
+//     }
+//     return country[ansidx];
+// }
 
-longestNameCountry(country);
+// longestNameCountry(country);
